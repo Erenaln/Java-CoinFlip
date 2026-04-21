@@ -1,10 +1,10 @@
 # Java-CoinFlip
 
-# 🪙 Java Coin Flip (Yazı-Tura) Oyunu
+# 🪙 Java Coin Flip Game
 
-**Sürüm:** v1.0 (Konsol Versiyonu)
+**Version:** v1.0 (Console Edition)
 
-Java temel yeteneklerimi (`Random` sınıfı ve kontrol yapıları) pekiştirmek için hazırladığım basit bir şans simülasyonudur.
+A simple chance simulation built to practice my core Java skills, specifically focusing on the `Random` class and control flow structures. 
 
-### 🚀 Gelecek Güncellemeler (v2.0)
-* Projeye görsel kullanıcı arayüzü (UI) eklenecek.
+### 🚀 Upcoming Updates (v2.0)
+* Implementation of a Graphical User Interface (GUI).
